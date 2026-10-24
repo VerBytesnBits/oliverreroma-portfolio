@@ -4,7 +4,7 @@ const projects = [
     number: "01",
     title: "IT Computer Laboratory Management System",
     description:
-     "A capstone project, focuses mainly in tracking and inventory.",
+     "A capstone project, focuses mainly in tracking and inventory. Role: Full Stack Developer build and setup frontend and backend essentials",
     stack: ["Laravel 12", "Livewire", "CSS", "Spatie", "MySQL", "Tailwind"],
     demo: "",
     github: "https://github.com/VerBytesnBits",
