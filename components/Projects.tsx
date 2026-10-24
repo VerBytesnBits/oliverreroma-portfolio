@@ -22,7 +22,7 @@ const projects = [
     number: "03",
     title: "SyncPoint Strategies",
     description:
-      "A web application",
+      "A web application Role: Jr. Full Stack Web Developer, build and setup frontend and backend essentials",
     stack: ["Laravel", "PHP", "CSS","Tailwind", "Docker"],
     demo: "",
     github: "https://github.com/VerBytesnBits",
